@@ -18,3 +18,14 @@ D:\Users\Henry\Desktop\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.SharpUpdate
 D:\Users\Henry\Desktop\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.csproj.GenerateResource.Cache
 D:\Users\Henry\Desktop\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.dll
 D:\Users\Henry\Desktop\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.pdb
+D:\RAMS Client App Dev\SharpUpdate\SharpUpdate\bin\Debug\SharpUpdate.dll
+D:\RAMS Client App Dev\SharpUpdate\SharpUpdate\bin\Debug\SharpUpdate.pdb
+D:\RAMS Client App Dev\SharpUpdate\SharpUpdate\bin\Debug\SevenZipSharp.dll
+D:\RAMS Client App Dev\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.csprojResolveAssemblyReference.cache
+D:\RAMS Client App Dev\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.Properties.Resources.resources
+D:\RAMS Client App Dev\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.SharpUpdateAcceptForm.resources
+D:\RAMS Client App Dev\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.SharpUpdateDownloadForm.resources
+D:\RAMS Client App Dev\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.SharpUpdateInfoForm.resources
+D:\RAMS Client App Dev\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.csproj.GenerateResource.Cache
+D:\RAMS Client App Dev\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.dll
+D:\RAMS Client App Dev\SharpUpdate\SharpUpdate\obj\Debug\SharpUpdate.pdb

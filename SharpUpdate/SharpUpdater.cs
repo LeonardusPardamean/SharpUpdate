@@ -3,6 +3,7 @@ using System.ComponentModel;
 using System.Diagnostics;
 using System.IO;
 using System.Windows.Forms;
+using SevenZip;
 
 namespace SharpUpdate
 {
@@ -97,6 +98,15 @@ namespace SharpUpdate
             // Download update
             if (result == DialogResult.OK)
             {
+                using (var tmp = new SevenZipExtractor(form.TempFilePath))
+                {
+                    for (int i = 0; i < tmp.ArchiveFileData.Count; i++)
+                    {
+                        tmp.ExtractFiles(@"d:\Temp\Result\", tmp.ArchiveFileData[i].Index);
+                    }
+                }
+
+
                 string currentPath = this.applicationInfo.ApplicationAssembly.Location;
                 string newPath = Path.GetDirectoryName(currentPath) + "\\" + update.FileName;
 

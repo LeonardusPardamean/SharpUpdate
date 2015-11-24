@@ -18,3 +18,14 @@ D:\Users\Henry\Desktop\SharpUpdate\TestApp\obj\x86\Debug\TestApp.csprojResolveAs
 D:\Users\Henry\Desktop\SharpUpdate\TestApp\obj\x86\Debug\TestApp.Form1.resources
 D:\Users\Henry\Desktop\SharpUpdate\TestApp\obj\x86\Debug\TestApp.Properties.Resources.resources
 D:\Users\Henry\Desktop\SharpUpdate\TestApp\obj\x86\Debug\TestApp.csproj.GenerateResource.Cache
+D:\RAMS Client App Dev\SharpUpdate\TestApp\obj\x86\Debug\TestApp.exe
+D:\RAMS Client App Dev\SharpUpdate\TestApp\obj\x86\Debug\TestApp.pdb
+D:\RAMS Client App Dev\SharpUpdate\TestApp\bin\Debug\TestApp.exe
+D:\RAMS Client App Dev\SharpUpdate\TestApp\bin\Debug\TestApp.pdb
+D:\RAMS Client App Dev\SharpUpdate\TestApp\bin\Debug\SharpUpdate.dll
+D:\RAMS Client App Dev\SharpUpdate\TestApp\bin\Debug\SharpUpdate.pdb
+D:\RAMS Client App Dev\SharpUpdate\TestApp\obj\x86\Debug\TestApp.csprojResolveAssemblyReference.cache
+D:\RAMS Client App Dev\SharpUpdate\TestApp\obj\x86\Debug\TestApp.Form1.resources
+D:\RAMS Client App Dev\SharpUpdate\TestApp\obj\x86\Debug\TestApp.Properties.Resources.resources
+D:\RAMS Client App Dev\SharpUpdate\TestApp\obj\x86\Debug\TestApp.csproj.GenerateResource.Cache
+D:\RAMS Client App Dev\SharpUpdate\TestApp\bin\Debug\SevenZipSharp.dll
