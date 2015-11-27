@@ -1,9 +1,9 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-    <update appID="TestApp"> 
+    <update appID="RAMS"> 
         <version>2.0.7.1</version> 
         <url>https://raw.githubusercontent.com/LeonardusPardamean/SharpUpdate/master/updateRAMSClientApp.7z</url> 
-        <fileName>TestApp.exe</fileName> 
+        <fileName>RAMS.exe</fileName> 
         <md5>AC6746F9EA60FF7D12A6AFB2B717E26E</md5>
         <description>Update: 06/19/2014:
         1. Added notification message when the current version is already the latest.</description> 
